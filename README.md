@@ -1,6 +1,9 @@
 # sql-gemini
 Bem-vindo ao sql-gemini, um projeto Node.js projetado baseado em CLI para facilitar a interação com bancos de dados PostgreSQL utilizando linguagem natural.
 
+## Demonstração
+https://www.youtube.com/watch?v=BjCq7ZK7TOY
+
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter o Node.js instalado em sua máquina. Este projeto foi desenvolvido utilizando a versão 20.
