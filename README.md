@@ -1,5 +1,4 @@
 # SQLUMAN CLI v1
-Bem-vindo ao sql-gemini, um projeto Node.js projetado baseado em CLI para facilitar a interação com bancos de dados PostgreSQL utilizando linguagem natural.
 
 ## Pré-requisitos
 
@@ -52,10 +51,6 @@ Se precisar limpar os arquivos salvos, execute:
 ```
 npm run clean
 ```
-
-## Contribuindo
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir um pull request ou uma issue.
 
 ---
 
